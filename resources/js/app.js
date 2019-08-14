@@ -22,7 +22,7 @@ window.Vue = require('vue');
 import Toasted from 'vue-toasted';
 Vue.use(Toasted)
 Vue.toasted.register('error', message => message, {
-    position : 'bottom-center',
+    position : 'top-right',
     duration : 1000
 })
 

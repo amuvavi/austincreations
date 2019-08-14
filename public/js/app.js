@@ -49714,7 +49714,7 @@ Vue.use(vue_toasted__WEBPACK_IMPORTED_MODULE_0___default.a);
 Vue.toasted.register('error', function (message) {
   return message;
 }, {
-  position: 'bottom-center',
+  position: 'top-right',
   duration: 1000
 });
 Vue.component('example-component', __webpack_require__(/*! ./components/ExampleComponent.vue */ "./resources/js/components/ExampleComponent.vue")["default"]);
