@@ -69,7 +69,7 @@
 
 
 
-                    <h3>Mojoman   For Life</h3>
+                    
                 </div>
             </div>
         </div>
